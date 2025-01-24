@@ -1,7 +1,7 @@
-roqqy:
-  name: "Roqqy Balboa"
-  job: Roq Boxer
-  nickname: roqqy
+paul:
+  name: "Paul Robinson"
+  job: Senior Software Engineering Manager
+  nickname: Paul
   profile: "https://github.com/quarkiverse/quarkus-roq"
   avatar: "https://raw.githubusercontent.com/quarkiverse/quarkus-roq/refs/heads/main/blog/public/images/iamroq.png"
   bio: |
