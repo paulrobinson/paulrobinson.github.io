@@ -2,8 +2,6 @@
 layout: :theme/post
 title: "Hello Rosie!"
 description: A simple page to show Rosie how easy it is to build websites with Roq
-image: blog.avif
-tags: blogging
 author: paul
 ---
 
