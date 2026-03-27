@@ -4,7 +4,6 @@ title: "Compensating Transactions: When ACID is too much (Part 4: Long Lived Tra
 description: This is my first article ever made with Quarkus Roq
 tags: transactions
 author: paul
-draft: true
 ---
 
 In [part one in this series]({site.url('posts/compensating-transactions-when-acid-is-too-much-part-1-introduction')}) I explained how ACID transactions can have a negative impact on applications whose transactions can take a relatively long time to run.

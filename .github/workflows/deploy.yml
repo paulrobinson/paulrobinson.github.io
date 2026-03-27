@@ -14,6 +14,8 @@ jobs:
         uses: quarkiverse/quarkus-roq@v1
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}   # Used to automatically get the GitHub Pages url
+          site-draft: false   # Exclude draft posts from production
+          site-future: false  # Exclude future-dated posts from production
   deploy:
     environment:
       name: github-pages
